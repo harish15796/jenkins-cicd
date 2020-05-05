@@ -29,8 +29,8 @@
 				<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
 					<muleVersion>4.2.2</muleVersion>
-					<username>${anypoint.username}</username>
-					<password>${anypoint.password}</password>
+					<username>${anypoint.Username}</username>
+					<password>${anypoint.Password}</password>
 					<businessGroup>Apisero</businessGroup>
 					<workerType>SMALL</workerType>
 					<region>us-west-1</region>
